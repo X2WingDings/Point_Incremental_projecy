@@ -1,0 +1,4 @@
+﻿  Point_Incremental_project.cpp
+D:\New folder\Point_Incremental_project\Point_Incremental_project\Point_Incremental_project.cpp(107,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\New folder\Point_Incremental_project\Point_Incremental_project\Point_Incremental_project.cpp(146,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Point_Incremental_project.vcxproj -> D:\New folder\Point_Incremental_project\x64\Debug\Point_Incremental_project.exe
